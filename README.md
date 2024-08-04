@@ -33,8 +33,8 @@
 <!-- Gaming -->
     <p><strong>Gaming</strong></p>
     <div>
-      <img src="https://img.shields.io/badge/Unity-1e1e1e?style=flat-square&logo=Unity&logoColor=white"/>&nbsp
-      <img src="https://img.shields.io/badge/unrealengine-ffffff?style=flat-square&logo=unrealengine&logoColor=white"/>&nbsp
+      <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=Unity&logoColor=white"/>&nbsp
+      <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=Unrealengine&logoColor=white"/>&nbsp
     </div>
 
 <!-- Language -->
