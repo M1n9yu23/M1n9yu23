@@ -38,7 +38,7 @@
     </div>
 
 <!-- Language -->
-  <p><strong>Language</strong></p>
+  <p><strong>Languages</strong></p>
   <div>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=Csharp&logoColor=white"/>&nbsp
