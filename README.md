@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=348fdf&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+BossMG+GitHub!👋)](https://git.io/typing-svg)
  
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3>✨ Tech Stack ✨</h3>
 <!--
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
@@ -21,7 +21,6 @@
 -->
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-
 <!-- Mobile -->
   <p><strong>Mobile</strong></p>
 <div>
