@@ -24,7 +24,7 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
  
 <!-- Mobile -->
-### 📱 Mobile
+### 🏆 Mobile
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp 
@@ -32,7 +32,7 @@
 </div>
 
 <!-- Gaming -->
-### 🎮 Gaming
+### 🏆 Gaming
   <div>
     <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=Unity&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=Unrealengine&logoColor=white"/>&nbsp
