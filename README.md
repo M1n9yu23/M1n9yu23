@@ -1,4 +1,6 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+BossMG+GitHub!👋)](https://git.io/typing-svg)
+ 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <!--
@@ -18,6 +20,7 @@
 </p>
 -->
 
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
 
 <!-- Mobile -->
   <p><strong>Mobile</strong></p>
@@ -57,6 +60,6 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp<br>
-    </div>
-
+    </div><br>
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BossMG-github)](https://github.com/anuraghazra/github-readme-stats)
