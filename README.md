@@ -62,4 +62,4 @@
     </div><br>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BossMG-github&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='user ID'&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/BossMG-github/github-readme-stats)
