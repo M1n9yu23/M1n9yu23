@@ -19,8 +19,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp<br>
 </p>
 -->
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="38" style="width: 38px; height: 38px; margin-right: 41px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="38" style="width: 38px; height: 38px; margin-right: 41px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="38" style="width: 38px; height: 38px; margin-right: 41px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="38" style="width: 38px; height: 38px; margin-right: 41px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="38" style="width: 38px; height: 38px; margin-right: 0px; margin-bottom: 0px;" /></div>
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
+ 
 <!-- Mobile -->
   <p><strong>Mobile</strong></p>
 <div>
@@ -62,5 +64,8 @@
     </div><br>
 </div>
 
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username='BossMG-github'" /></a>
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username='BossMG-github'&layout=compact" /></a> 
+<a href="https://github.com/BossMG-github"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=BossMG-github&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/BossMG-github"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BossMG-github&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
+
+<img src="https://github-profile-trophy.vercel.app/?username=BossMG-github&margin-w=15&row=2&column=4">
+
