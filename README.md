@@ -30,11 +30,11 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>&nbsp
 </div>
-<!-- Game -->
-    <p><strong>Game</strong></p>
+<!-- Gaming -->
+    <p><strong>Gaming</strong></p>
     <div>
       <img src="https://img.shields.io/badge/Unity-1e1e1e?style=flat-square&logo=Unity&logoColor=white"/>&nbsp
-      <img src="https://img.shields.io/badge/Unreal-ffffff?style=flat-square&logo=Unreal&logoColor=white"/>&nbsp
+      <img src="https://img.shields.io/badge/unrealengine-ffffff?style=flat-square&logo=unrealengine&logoColor=white"/>&nbsp
     </div>
 
 <!-- Language -->
