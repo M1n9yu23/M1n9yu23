@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=348fdf&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+BossMG+GitHub!👋)](https://git.io/typing-svg)
- 
+![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling)
 
 <h3>✨ Tech Stack ✨</h3>
 <!--
@@ -66,4 +64,6 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp<br>
     </div><br>
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling&section=footer)
 
