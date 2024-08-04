@@ -28,7 +28,6 @@
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>&nbsp
 </div>
 
@@ -64,8 +63,6 @@
     </div><br>
 </div>
 
-<a href="https://github.com/BossMG-github"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=BossMG-github&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SOKURI's github stats" /></a>
-<a href="https://github.com/BossMG-github"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BossMG-github&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
 
 <img src="https://github-profile-trophy.vercel.app/?username=BossMG-github&margin-w=15&row=2&column=4">
 
