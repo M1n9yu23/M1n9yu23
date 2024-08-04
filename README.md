@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling)
 
-<h3>✨ Tech Stack ✨</h3>
+<h2>✨ Tech Stack ✨</h2>
 <!--
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
