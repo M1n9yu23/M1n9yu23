@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling)
 
 <h3>✨ Tech Stack ✨</h3>
@@ -63,6 +64,8 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp<br>
     </div><br>
+</div>
+
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling&section=footer)
