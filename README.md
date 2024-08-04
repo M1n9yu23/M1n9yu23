@@ -33,14 +33,18 @@
 <!-- Game -->
     <p><strong>Game</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+      <img src="https://img.shields.io/badge/Unity-1e1e1e?style=flat-square&logo=Unity&logoColor=white"/>&nbsp
+      <img src="https://img.shields.io/badge/Unreal-ffffff?style=flat-square&logo=Unreal&logoColor=white"/>&nbsp
     </div>
 
 <!-- Language -->
   <p><strong>Language</strong></p>
   <div>
-    <img src="https://img.shields.io/badge/Unity-A8B9CC?style=flat-square&logo=Unity&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Unreal%23-512BD4?style=flat-square&logo=Unreal&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=Csharp&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
   </div>
 
 <!-- Database -->
