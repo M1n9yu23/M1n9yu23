@@ -24,21 +24,21 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
  
 <!-- Mobile -->
-  <p><strong>Mobile</strong></p>
+### Mobile
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>&nbsp
 </div>
 <!-- Gaming -->
-    <p><strong>Gaming</strong></p>
+### Gaming
     <div>
       <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=Unity&logoColor=white"/>&nbsp
       <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=Unrealengine&logoColor=white"/>&nbsp
     </div>
 
 <!-- Language -->
-  <p><strong>Languages</strong></p>
+### Language
   <div>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=Csharp&logoColor=white"/>&nbsp
@@ -48,18 +48,18 @@
   </div>
 
 <!-- Database -->
-  <p><strong>Database</strong></p>
+### Database
   <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/sqlite-348fdf?style=for-the-badge&logo=sqlite&logoColor=white">
   </div>
 <!-- Server -->
-    <p><strong>Server</strong></p>
+### Server
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
     </div>
 <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
+### Frontend
     <div>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
