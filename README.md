@@ -30,16 +30,17 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>&nbsp
 </div>
-
+<!-- Game -->
+    <p><strong>Game</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+    </div>
 
 <!-- Language -->
   <p><strong>Language</strong></p>
   <div>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=Csharp&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/Unity-A8B9CC?style=flat-square&logo=Unity&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Unreal%23-512BD4?style=flat-square&logo=Unreal&logoColor=white"/>&nbsp
   </div>
 
 <!-- Database -->
@@ -63,4 +64,3 @@
     </div><br>
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBossMG-github&count_bg=%233D71C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
