@@ -7,17 +7,17 @@
 <h1>✨ Tech Stack ✨</h1>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&label=" width="50" height="50"/>&nbsp
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white&label=" width="50" height="50"/>&nbsp
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white&label=" width="50" height="50"/>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&label=" width="50" height="50"/>&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white&label=" width="50" height="50"/>&nbsp
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=Csharp&logoColor=white&label=" width="50" height="50"/>&nbsp
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white&label=" width="50" height="50"/>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white&label=" width="50" height="50"/>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white&label=" width="50" height="50"/>&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&label=" width="50" height="50"/>&nbsp
-  <img src="https://img.shields.io/badge/SQLite-348fdf?style=for-the-badge&logo=sqlite&logoColor=white&label=" width="50" height="50"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Android_logo_2019.svg" alt="Android" width="50" height="50"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flutter_logo_2021.svg" alt="Flutter" width="50" height="50"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Dart_logo.png" alt="Dart" width="50" height="50"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Java_logo.png" alt="Java" width="50" height="50"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kotlin_Icon.png" alt="Kotlin" width="50" height="50"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C%23_logo.svg" alt="C#" width="50" height="50"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_logo.png" alt="C++" width="50" height="50"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/C_programming_language.svg" alt="C" width="50" height="50"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/MySQL_logo.svg" alt="MySQL" width="50" height="50"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLite_logo.svg" alt="SQLite" width="50" height="50"/>&nbsp
 </div>
 
 </div>
