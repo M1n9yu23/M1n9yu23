@@ -30,11 +30,6 @@
         <img src="https://img.shields.io/badge/sqlite-348fdf?style=for-the-badge&logo=sqlite&logoColor=white">
   </div>
 
-  
-  <div>
-      <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  </div>
-  
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling&section=footer)
