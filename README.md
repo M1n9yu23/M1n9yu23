@@ -15,6 +15,7 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   
 <!-- Mobile -->
+### 🏆 모바일 개발
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp
@@ -22,6 +23,7 @@
 </div>
 
 <!-- 언어 -->
+### 🏆 언어
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
@@ -29,11 +31,13 @@
 </div>
 
 <!-- 데이터베이스 -->
+### 🏆 데이터베이스 
 <div>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 
 <!-- 서버 -->
+### 🏆 서버
 <div>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 </div>
