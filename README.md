@@ -6,11 +6,6 @@
 
 <h1>✨ Tech Stack ✨</h1>
 
-<div style="display: flex;">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" style="width: 50px; height: 42px; margin-right: 41px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" style="width: 50px; height: 42px; margin-right: 41px; margin-bottom: 0px;" />
-</div>
-
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
  
 <!-- Mobile -->
@@ -34,9 +29,8 @@
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/sqlite-348fdf?style=for-the-badge&logo=sqlite&logoColor=white">
   </div>
+
   
-<!-- Server -->
-### 🏆 Server
   <div>
       <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   </div>
