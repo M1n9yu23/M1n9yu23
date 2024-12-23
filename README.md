@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=180&animation=twinkling&text=MinGyu%20Son&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=160&animation=twinkling&text=MinGyu%20Son&fontSize=40&fontColor=ffffff)
 
-<h3 align="center">Android Developer</h3>
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling) -->
 
