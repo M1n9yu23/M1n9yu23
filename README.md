@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:348fdf,100:1da1f2&height=200&animation=fadeIn&text=Son%20MinGyu&fontAlign=70&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=180&animation=twinkling&text=MinGyu%20Son&fontSize=40&fontColor=ffffff)
+
+<h3 align="center">Android Developer</h3>
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling) -->
 
@@ -25,6 +27,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBossMG-github&count_bg=%233DBCC8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:348fdf,100:1da1f2&height=150&section=footer)
-
-<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling&section=footer) -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling&section=footer)
