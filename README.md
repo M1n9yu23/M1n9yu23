@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=160&animation=twinkling&text=MinGyu%20Son&fontSize=40&fontColor=ffffff)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=twinkling&text=MinGyu%20Son&fontSize=50&fontColor=ffffff&fontAlign=70&fontAlignY=40)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=twinkling&text=MinGyu%20Son&fontSize=50&fontColor=ffffff&fontAlign=10&fontAlignY=40)
 
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling) -->
@@ -30,6 +27,3 @@
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&animation=twinkling&section=footer)
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling&section=footer)
