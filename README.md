@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling&text=MinGyu%20Son&fontSize=40&fontColor=ffffff)
+
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling) -->
 
 <h3>Tech Stack</h3>
 <p>
