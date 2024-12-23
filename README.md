@@ -1,10 +1,4 @@
-<p align='left'>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=73c088&height=40&text=MinGyu%20Son&animation=fadeIn&fontSize=30&fontColor=ffffff&textBg=true" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=20&text=Android%20Developer&fontSize=15&animation=scaleIn&fontColor=73c088" />
-</p>
-<br>
-
-<!--![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling)
 
 <h3>Tech Stack</h3>
 <p>
@@ -29,4 +23,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBossMG-github&count_bg=%233DBCC8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<!--![Footer](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling&section=footer) -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling&section=footer)
