@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=twinkling&text=MinGyu%20Son&fontSize=50&fontColor=ffffff&fontAlign=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&animation=twinkling&text=MinGyu%20Son&fontSize=45&fontColor=ffffff)
+
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling) -->
 
