@@ -1,12 +1,4 @@
-<p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4DB6AC&height=50&text=Your%20Name&animation=fadeIn&fontSize=35&fontColor=ffffff&textBg=true" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=30&text=Android%20Developer&fontSize=20&animation=scaleIn&fontColor=4DB6AC" />
-</p>
-<br>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling)
-
-
 
 <h3>Tech Stack</h3>
 <p>
