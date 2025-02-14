@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=348fdf&height=150&animation=twinkling)
 
+<h1 align="center">
+  <span style="color:#348fdf; text-shadow: 2px 2px 8px rgba(52,143,223,0.8);">
+    🚀 MinGyu's GitHub 🚀
+  </span>
+</h1>
+
 <h3>Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
