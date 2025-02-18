@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Mingyu Son
+## 손민규 Son Mingyu
+- Android Developer 📱
 
 Android Developer
 
