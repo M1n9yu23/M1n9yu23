@@ -1,7 +1,10 @@
 ## 손민규 Son Mingyu
-- Android Developer 📱
+- Android Developer
 
 Android Developer
+
+<br>
+<br>
 
 <h3>Tech Stack</h3>
 <p>
