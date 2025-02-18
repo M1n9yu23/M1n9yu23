@@ -1,11 +1,7 @@
 ## 손민규 Son Mingyu
 - Android Developer
 
-Android Developer
-
 <br>
-<br>
-
 <h3>Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
