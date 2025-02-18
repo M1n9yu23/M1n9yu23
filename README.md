@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:348fdf&height=100&section=header&text=MinGyu&fontSize=20&fontAlignY=24&fontColor=ffffff&animation=twinkling)
+## 👋 Hi, I'm Mingyu Son
+
+Android Developer
 
 <h3>Tech Stack</h3>
 <p>
