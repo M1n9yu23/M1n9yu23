@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:348fdf&height=140&section=header&text=MinGyu&fontSize=30&fontAlignY=40&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:348fdf&height=100&section=header&text=MinGyu&fontSize=20&fontAlignY=40&fontColor=ffffff&animation=twinkling)
 
 <h3>Tech Stack</h3>
 <p>
