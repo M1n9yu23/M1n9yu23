@@ -1,4 +1,4 @@
-## 손민규 Son Mingyu
+## 손민규 Mingyu Son
 - Android Developer
 
 <h3>Tech Stack</h3>
