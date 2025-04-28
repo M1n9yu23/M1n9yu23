@@ -1,8 +1,8 @@
-## Mingyu Son
+## _Mingyu Son_
 
 Android Developer
 
-## Activities
+## _Activities_
 
 **_파이오링크_** <sub><sup>SQA 현장실습 (2024.01)</sup></sub>
 
