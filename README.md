@@ -8,7 +8,7 @@ Android Developer
 
 **_ButterFly_** <sub><sup>게임 개발 동아리 (2022.05 ~ 2023.10)</sup></sub>
 
-**_졸업프로젝트_** <sub><sup>유니티 2D 액션 플랫포머 게임 (2023.03 ~ 2023.08) </sup></sub>
+**_HERO_** <sub><sup>유니티 2D 액션 플랫포머 게임 (졸업프로젝트) (2023.03 ~ 2023.08) </sup></sub>
 
 ## 🏆 Awards
 
