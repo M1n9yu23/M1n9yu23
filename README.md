@@ -1,7 +1,7 @@
 ## 👨‍💻 손민규 Mingyu Son
 - Android Developer
 
-## 🏃‍♂️ Activities
+## Activities
 
 **파이오링크** <sub><sup>현장 실습 SQA (2024.01)</sup></sub>
 
