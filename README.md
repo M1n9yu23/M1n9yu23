@@ -1,4 +1,4 @@
-## 손민규 Mingyu Son 👨‍💻
+## 👨‍💻 손민규 Mingyu Son
 - Android Developer
 
 ## 🏃‍♂️ Activities
