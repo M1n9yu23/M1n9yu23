@@ -2,10 +2,13 @@
 - Android Developer
 
 ## 🏃‍♂️ Activities
+
 **파이오링크** <sub><sup>현장 실습 SQA (2024.01)</sup></sub>
+
 **ButterFly** <sub><sup>게임 개발 동아리 (2022.05 ~ 2023.10)</sup></sub>
 
 ## 🏆 Awards
+
 **구강 이미지 합성데이터 헬스케어 AI 경진대회** <sub><sup> 서울대학교치과병원 (입선) (2023.11 ~ 2023.12) </sup></sub> 
 
 ## ⚡️ Technologies
