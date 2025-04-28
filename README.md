@@ -1,9 +1,9 @@
-## 👨‍💻 Mingyu Son
+## Mingyu Son
 - Android Developer
 
 ## Activities
 
-**_파이오링크_** <sub><sup>현장 실습 SQA (2024.01)</sup></sub>
+**_파이오링크_** <sub><sup>SQA 현장실습 (2024.01)</sup></sub>
 
 **_ButterFly_** <sub><sup>게임 개발 동아리 (2022.05 ~ 2023.10)</sup></sub>
 
