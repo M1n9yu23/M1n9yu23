@@ -1,5 +1,6 @@
 ## Mingyu Son
-- Android Developer
+
+Android Developer
 
 ## Activities
 
