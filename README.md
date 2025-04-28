@@ -1,4 +1,4 @@
-## 👨‍💻 손민규 Mingyu Son
+## 👨‍💻 Mingyu Son
 - Android Developer
 
 ## Activities
@@ -9,7 +9,7 @@
 
 ## 🏆 Awards
 
-**구강 이미지 합성데이터 헬스케어 AI 경진대회** (입선) <sub><sup> 서울대학교치과병원 (2023.11 ~ 2023.12) </sup></sub> 
+**구강 이미지 합성데이터 헬스케어 AI 경진대회** (입선) <sub><sup>서울대학교치과병원 (2023.11 ~ 2023.12)</sup></sub> 
 
 ## ⚡️ Technologies
 
