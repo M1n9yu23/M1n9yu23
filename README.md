@@ -4,7 +4,7 @@ Android Developer
 
 ## Activities
 
-**_파이오링크_** <sub><sup>SQA 현장실습 (2023.12 ~ 2024.02)</sup></sub>
+**_파이오링크_** <sub><sup>SQA 현장실습 (2023.12 ~ 2024.01)</sup></sub>
 
 **_HERO_** <sub><sup>유니티 2D 액션 플랫포머 게임 (졸업프로젝트) (2023.03 ~ 2023.08) </sup></sub>
 
