@@ -12,7 +12,7 @@ Android Developer
 
 ## 🏆 Awards
 
-**_구강 이미지 합성데이터 헬스케어 AI 경진대회_** <sub><sup>(입선)</sup></sub> <sub><sup>서울대학교치과병원 (2023.11 ~ 2023.12)</sup></sub> 
+[**_구강 이미지 합성데이터 헬스케어 AI 경진대회_**](https://healthcare.gcontest.co.kr/template/m/14622) <sub><sup>(입선)</sup></sub> <sub><sup>서울대학교치과병원 (2023.11 ~ 2023.12)</sup></sub> 
 
 ## ⚡️ Technologies
 
