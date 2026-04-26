@@ -1,6 +1,6 @@
 ## _MinGyu Son_
 
-Android & Wear Developer
+Android Developer
 
 ## 🏆 Awards
 
