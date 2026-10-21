@@ -6,6 +6,7 @@ I love Android and Kotlin, and I enjoy building open source libraries.
 
 - [google/jetpack-camera-app](https://github.com/google/jetpack-camera-app)
 - [android/health-samples](https://github.com/android/health-samples)
+- [android/nav3-recipes](https://github.com/android/nav3-recipes)
 - [DroidKaigi/conference-app-2026](https://github.com/DroidKaigi/conference-app-2026)
 
 #### Awards
